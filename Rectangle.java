@@ -6,9 +6,9 @@ public class Rectangle{
         width=1;
 
     }
-    public Rectangle(int length,int width){
-        length=length;
-        width=width;
+    public Rectangle(int length1,int width1){
+        length=length1;
+        width=width1;
     }
     public int getLength(){
         return length;
